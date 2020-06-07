@@ -2,7 +2,7 @@
 
 ### Implemented with Node.js, which stores data from the client side in MongoDB. If the client side needs data from database, the api responds for the request.
 \
-Technology used:\
+Technology used:
 
 body-parser: In order to get access to the post data we have to use body-parser. Basically what the body-parser is which allows express to read the body and then parse that into a Json object that we can understand.\
 \
